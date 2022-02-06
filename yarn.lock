@@ -1326,7 +1326,7 @@
     fetch-ponyfill "^6.1.0"
     promise-polyfill "^8.1.3"
 
-"@formspree/react@^2.2.4":
+"@formspree/react@2.2.4":
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/@formspree/react/-/react-2.2.4.tgz#9ce4b637d226e7b4e9558833b5793203a788cb2e"
   integrity sha512-eAtWpUB3udIC/7sdmZXMJM7Cr9whI0Ehc+cOPO2BwYWbWVbAd3rtWV91OtbINFzFCdzNK3TnN/xGGx3YOQAB0Q==
@@ -2051,7 +2051,7 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.0.tgz#6734f8ebc106a0860dff7f92bf90df193f0935d7"
   integrity sha512-zrsUxjLOKAzdewIDRWy9nsV1GQsKBCWaGwsZQlCgr6/q+vjyZhFgqedLfFBuI9anTPEUT4APq9Mu0SZBTzIcGQ==
 
-"@reach/router@^1.3.4":
+"@reach/router@1.3.4":
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/@reach/router/-/router-1.3.4.tgz#d2574b19370a70c80480ed91f3da840136d10f8c"
   integrity sha512-+mtn9wjlB9NN2CNnnC/BRYtwdKBfSyyasPYraNAyvaV1occr/5NnB4CVzjEZipNHwYebQwcndGUmpFzxAUoqSA==
