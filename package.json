@@ -25,7 +25,7 @@
     "gatsby-plugin-sharp": "4.7.0",
     "gatsby-plugin-svgr-svgo": "2.0.0",
     "gatsby-source-filesystem": "4.7.0",
-    "gatsby-transformer-json": "^4.7.0",
+    "gatsby-transformer-json": "4.7.0",
     "gatsby-transformer-sharp": "4.7.0",
     "gsap": "3.9.1",
     "javascript-terminal": "1.1.1",
